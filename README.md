@@ -1,4 +1,4 @@
-![Spotify](https://img.shields.io/badge/Fazzini:_Dress,_To_Impress-1ED760?style=for-the-badge&logo=spotify&logoColor=000000)
+![Spotify](https://img.shields.io/badge/Bardero$:_Olvido-1ED760?style=for-the-badge&logo=spotify&logoColor=000000)
 <!--
 **Sx1ngthD4ck3r/sx1ngthD4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
