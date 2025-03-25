@@ -1,4 +1,4 @@
-## Spotify: MARCOS YTZ - Dalí
+## Spotify: El Paria - Noche de Jazz
 <!--
 **Sx1ngthD4ck3r/sx1ngthD4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
