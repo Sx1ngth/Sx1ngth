@@ -1,4 +1,4 @@
-![Spotify](https://img.shields.io/badge/Carrion%20GodBle%24%24%20-%20True%20Love-1ED760?style=for-the-badge&logo=spotify&logoColor=000000)
+![Spotify](https://img.shields.io/badge/C.R.O%20-%20Solo-1ED760?style=for-the-badge&logo=spotify&logoColor=000000)
 <!--
 **Sx1ngthD4ck3r/sx1ngthD4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
