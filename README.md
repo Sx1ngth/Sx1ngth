@@ -1,5 +1,7 @@
 ## Sx1ngth
-<img src="https://badgespotify.onrender.com/badge.svg?nocache=<?= time() ?>" width="150" height="25" />
+![Spotify Badge](https://badgespotify.onrender.com/badge.svg)
+
+<!--<img src="https://badgespotify.onrender.com/badge.svg?nocache=<?= time() ?>" width="150" height="25" />-->
 
 
 
