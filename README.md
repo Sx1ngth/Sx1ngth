@@ -2,6 +2,24 @@
   Sx1ngth <br>
   <img src="https://badgespotify.onrender.com/badge.svg?nocache=12345" alt="Spotify Badge" width="135">
 </h1>
+Ola bienvenido a mi agujero del ciberspacio
+
+Soy aficionado y amante dentro del mundo de la informatica
+me estoy especializando en la rama de la ciberseguridad informatica y en
+el desarrollo de software.
+
+SKills:
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+
+
+
+
 
 
 
