@@ -1,5 +1,9 @@
-## Sx1ngth
-![Spotify Badge](https://badgespotify.onrender.com/badge.svg)
+<p align="center" style="font-size: 40px; font-weight: bold;">
+  Sx1ngth <br>
+  <img src="https://badgespotify.onrender.com/badge.svg" alt="Spotify Badge">
+</p>
+
+
 
 <!--<img src="https://badgespotify.onrender.com/badge.svg?nocache=<?= time() ?>" width="150" height="25" />-->
 
