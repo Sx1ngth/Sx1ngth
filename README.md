@@ -1,4 +1,4 @@
-![Spotify](https://img.shields.io/badge/Ronpe_99:_INESTABLE-1ED760?style=for-the-badge&logo=spotify&logoColor=000000)
+![Spotify](https://badgespotify.onrender.com/badge.svg?texto=BARDERO$&valor=$$$)
 <!--
 **Sx1ngthD4ck3r/sx1ngthD4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
