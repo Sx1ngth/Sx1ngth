@@ -1,4 +1,5 @@
-![Spotify Badge](https://badgespotify.onrender.com/badge.svg)
+<img src="https://badgespotify.onrender.com/badge.svg?nocache=<?= time() ?>" />
+
 
 
 <!--
