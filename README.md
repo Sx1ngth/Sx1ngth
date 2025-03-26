@@ -1,4 +1,4 @@
-![Spotify Badge](https://badgespotify.onrender.com/badge.svg?texto=BARDERO%24&valor=%24%24%24&nocache=1700000000)
+![Spotify Badge](https://badgespotify.onrender.com/badge.svg)
 
 
 <!--
