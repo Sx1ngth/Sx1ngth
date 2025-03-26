@@ -1,6 +1,6 @@
 <h1 align="center" style="font-size: 100px; font-weight: bold;">
   Sx1ngth <br>
-  <img src="https://badgespotify.onrender.com/badge.svg" alt="Spotify Badge" width="200">
+  <img src="https://badgespotify.onrender.com/badge.svg" alt="Spotify Badge" width="150">
 </h1>
 
 
