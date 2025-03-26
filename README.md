@@ -1,5 +1,4 @@
 ## Sx1ngth
-<img src="20250325_225916.jpg">
 <img src="https://badgespotify.onrender.com/badge.svg?nocache=<?= time() ?>" />
 
 
