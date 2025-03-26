@@ -6,7 +6,7 @@
 
 
 ## !Hey! Bienvenido a mi agujero del CiberSpacio.
-Soy aficionado y amante dentro del mundo de la informatica me estoy especializando en la rama de la ciberseguridad informatica y en el desarrollo de software. Estoy en constate aprendizaje con motivacion y con ganas de aprender.
+Soy aficionado y amante dentro del mundo de la informatica me estoy especializando en la rama de la ciberseguridad informatica y en el desarrollo de software.
 
 
 ## Skills
