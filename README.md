@@ -2,13 +2,13 @@
   Sx1ngth <br>
   <img src="https://badgespotify.onrender.com/badge.svg?nocache=12345" alt="Spotify Badge" width="135">
 </h1>
-Ola bienvenido a mi agujero del CiberSpacio
 
-Soy aficionado y amante dentro del mundo de la informatica
-me estoy especializando en la rama de la ciberseguridad informatica y en
-el desarrollo de software.
 
-<h2>Skills:</h2>
+## !Hey! Bienvenido a mi agujero del CiberSpacio.
+Soy aficionado y amante dentro del mundo de la informatica me estoy especializando en la rama de la ciberseguridad informatica y en el desarrollo de software. Estoy en constate aprendizaje con motivacion y con ganas de aprender.
+
+
+## Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
