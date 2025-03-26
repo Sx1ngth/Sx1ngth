@@ -1,4 +1,4 @@
-![Spotify](https://badgespotify.onrender.com/badge.svg?texto=BARDERO$&valor=$$$)
+![Spotify Badge](https://badgespotify.onrender.com/badge.svg?texto=BARDERO%24&valor=%24%24%24)
 <!--
 **Sx1ngthD4ck3r/sx1ngthD4ck3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
