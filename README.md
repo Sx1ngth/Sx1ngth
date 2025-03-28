@@ -1,8 +1,10 @@
 <h1 align="center" style="font-size: 150px; font-weight: bold;">
   Sx1ngth <br>
   <img src="profile.png" width="100"> <br>
-  <img src="https://badgespotify.onrender.com/badge.svg?nocache=12345" alt="SPOTIFY">
+  <img id="spotify-badge" src="https://badgespotify.onrender.com/badge.svg?nocache=12345" alt="SPOTIFY" onerror="this.onerror=null; this.src='https://img.shields.io/badge/OFFLINE-1ED760?style=for-the-badge&logo=spotify&logoColor=white';">
 </h1>
+
+
 
 
 ## !Hey! Bienvenido a mi agujero del CiberSpacio.
